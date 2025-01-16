@@ -1,1 +1,1 @@
-# flexbox-project
+# Website for training my flexbox skills
